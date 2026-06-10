@@ -1,5 +1,5 @@
 venv/
-pycache/
+__pycache__/
 .env
 node_modules/
 .ipynb_checkpoints/
